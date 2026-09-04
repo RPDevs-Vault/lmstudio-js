@@ -16,7 +16,7 @@
     "@types/ws": "^8.5.10"
   },
   "dependencies": {
-    "ws": "^8.16.0"
+    "ws": "^8.21.1"
   },
   "sideEffects": false,
   "exports": {
